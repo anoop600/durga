@@ -26,7 +26,7 @@ public class UserCheck {
 	}
 	@Override
 	public String toString() {
-		return "UserCheck [username=" + username + ", password=" + password + "]";
+		return "UserCheck [username=" + username + ", password=" + password + "]"
 	}
 	
 
